@@ -1,30 +1,17 @@
-# ComicCraft - AI Powered Comic Generator
+# ComicCraft - AI Comic Story Creator
 
-An AI-powered application that generates complete comic strips from simple text prompts with consistent character faces and auto-generated dialogues.
+ComicCraft is an AI-powered comic story generator using Google Gemini models. It takes user prompts to build panel-by-panel comic storylines, character descriptions, and dialogues automatically.
 
-## 🚀 Project Overview
-- Converts text stories into 4-6 panel comics
-- Maintains character consistency across panels
-- Supports multiple art styles (Marvel, Manga, Anime)
-- Exports comics as PDF and Images
+## Project Phases Progress
+- [x] Phase 1: Problem Definition
+- [x] Phase 2: System Architecture Design
+- [x] Phase 3: Model Selection & Setup
+- [x] Phase 4: Backend Integration
+- [x] Phase 5: Core Functionalities Development
+- [X] Phase 6: Project Testing
+- [X] Phase 7: Project Documentation
+- [x] Phase 8: Project Demonstration
 
-## 📁 Project Structure (8 Phases)
-- Phase-1-Introduction
-- Phase-2-Requirement-Analysis
-- Phase-3-Design
-- Phase-4-Development
-- Phase-5-Testing
-- Phase-6-Deployment
-- Phase-7-Results
-- Phase-8-Conclusion
-
-## 🛠️ Tech Stack
-Python, Streamlit, Stable Diffusion XL, Groq LLM, Pillow, ReportLab
-
-## 🔗 Live Demo
-Live App: https://comiccraft-ladduoffx.streamlit.app
-GitHub: https://github.com/ladduoffx/Comiccraft
-
-## 👨‍💻 Team: ladduoffx
-
-## 📜 License: MIT
+## Demo Video
+* [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1q6giDo6otpMOtRVgzVCXwYCjqi-1Vdrd/view?usp=drivesdk)
+  
